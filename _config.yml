@@ -23,7 +23,7 @@ description:  |  # description of the site (multiple lines allowed)
   This is the line 
   where I want to preserve
 
-|
+description:  |
   This is a
   multiline string
 
