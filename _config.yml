@@ -5,6 +5,7 @@ url: https://junyuzhang567.github.io/ # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description:  |  # description of the site (multiple lines allowed)
   -PhD candidate in Finance
+
   -Department of Accountancy & Finance 
   -University of Otago
   -Dunedin, New Zealand
@@ -17,6 +18,10 @@ description:  |  # description of the site (multiple lines allowed)
   Interested area: Derivatives, Forecasting, Machine Learning, Pollution Control, ESG
 
   FRM part I, CFA II exams passed.
+
+  |
+  This is the line 
+  where I want to preserve
 permalink: /:slug.html
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
