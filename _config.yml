@@ -4,12 +4,19 @@ email: junyu.zhang@postgrad.otago.ac.nz # email of site's author
 url: https://junyuzhang567.github.io/ # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  "PhD candidate in Finance \n Department of Accountancy & Finance \n
-  > University of Otago \n Dunedin, New Zealand \n \n
-  Email: junyu.zhang@postgrad.otago.ac.nz \n
-  \n  Supervisor:  Dr. Xinfeng (Edwin) Ruan \n
-  \t\t\t\t  Prof. Jin E. Zhang \n \n Interested area: Derivatives, Forecasting, Machine Learning, Pollution Control, ESG \n
-  \n FRM part I, CFA II exams passed.""
+  PhD candidate in Finance \\n
+  Department of Accountancy & Finance 
+  University of Otago
+  Dunedin, New Zealand
+
+  Email: junyu.zhang@postgrad.otago.ac.nz
+
+  Supervisor:  Dr. Xinfeng (Edwin) Ruan
+               Prof. Jin E. Zhang
+
+  Interested area: Derivatives, Forecasting, Machine Learning, Pollution Control, ESG
+
+  FRM part I, CFA II exams passed.
 permalink: /:slug.html
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
