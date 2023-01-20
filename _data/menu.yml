@@ -2,37 +2,53 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+
+  - title: Education
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: Master of Applied Finance, Auckland University of Technology
+      - title: MSc in Environmental Science and Technology, City University of Hong Kong
+      - title: BSc in Environmental Science, Zhongkai Unversity of Agriculture and Engineering
 
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+  - title: Tutoring
+    entries:
+      - title: FINC310 Fixed Income Security Analysis ---- 2021
+      - title: FINC306 Derivatives ---- 2022
 
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+  - title: Publication
+    entries:
+      - title: Zhang, J., Ruan, X., & Zhang, J. E. (2022). Risk-neutral moments and return predictability: International evidence. Journal of Forecasting, 1– 26. <a href='https://doi.org/10.1002/for.2926'>https://doi.org/10.1002/for.2926</a>
 
-  - title: rss
-    url: feed.xml
+  # - title: info
+  #   entries:
+  #     - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+  #     - title: github repo
+  #       url: https://github.com/riggraz/no-style-please
+  #     - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+
+  # - title: all posts
+  #   post_list:
+  #     limit: 5
+  #     show_more: true
+  #     show_more_text: See archive...
+  #     show_more_url: archive.html
+
+  # - title: posts by category
+  #   post_list:
+  #     category: example2
+  #     show_more: true
+  #     show_more_text: See more posts...
+  #     show_more_url: example2-archive.html
+
+  # - title: rss
+  #   url: feed.xml
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+  # - title: another list
+  #   entries:
+  #     - title: with subitems
+  #       entries:
+  #         - title: with subsubitems
+  #         - title: example page
+  #           url: about
+  # - title: PRO TIP
+  #   entries:
+  #     - title: to edit this menu, edit _data/menu.yml file
