@@ -1,8 +1,8 @@
 title: Junyu Zhang's Site # name of the site
 author: Junyu Zhang # name of site's author
 email: junyu.zhang@postgrad.otago.ac.nz # email of site's author
-url: https://jjjjjjjjyzhang.github.io/ # root address of the site
-baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+url: https://junyuzhang567.github.io/ # root address of the site
+baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   Hahahaha
 permalink: /:slug.html
@@ -16,7 +16,7 @@ theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
+  show_description: true # show blog description in home page
 
 sass:
   style: :compressed
