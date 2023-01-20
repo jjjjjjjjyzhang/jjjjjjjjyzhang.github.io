@@ -22,6 +22,11 @@ description:  |  # description of the site (multiple lines allowed)
   |
   This is the line 
   where I want to preserve
+
+|
+  This is a
+  multiline string
+
 permalink: /:slug.html
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
