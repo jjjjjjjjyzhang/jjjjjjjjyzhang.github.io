@@ -3,8 +3,8 @@ author: Junyu Zhang # name of site's author
 email: junyu.zhang@postgrad.otago.ac.nz # email of site's author
 url: https://junyuzhang567.github.io/ # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description: > # description of the site (multiple lines allowed)
-  PhD candidate in Finance \\n
+description:  |  # description of the site (multiple lines allowed)
+  PhD candidate in Finance
   Department of Accountancy & Finance 
   University of Otago
   Dunedin, New Zealand
