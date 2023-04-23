@@ -12,7 +12,7 @@ description: > # description of the site (multiple lines allowed)
   <p>Supervisors:  Dr. Xinfeng (Edwin) Ruan
   <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Prof. Jin E. Zhang</p>
   <p>Interested area: Derivatives, Forecasting, Machine Learning, Pollution Control, ESG </p>
-  <p>FRM part I, CFA II exams passed.</p>
+  <p>FRM part I exam passed, CFA III exam candidate.</p>
 permalink: /:slug.html
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
