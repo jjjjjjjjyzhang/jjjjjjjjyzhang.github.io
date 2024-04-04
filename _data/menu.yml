@@ -16,9 +16,9 @@ entries:
       - title: Zhang, J., Ruan, X., & Zhang, J. E. (2023). Do short-term market swings improve realized volatility forecasts? <i>Finance Research Letters</i>, 58(2023), 104629. <a href='https://doi.org/10.1016/j.frl.2023.104629'>https://doi.org/10.1016/j.frl.2023.104629</a>
 
   - title: Tutoring
-  entries:
-    - title: FINC310 Fixed Income Security Analysis
-    - title: FINC306 Derivatives
+    entries:
+      - title: FINC310 Fixed Income Security Analysis
+      - title: FINC306 Derivatives
 
   # - title: info
   #   entries:
