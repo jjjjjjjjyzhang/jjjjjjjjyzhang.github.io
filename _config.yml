@@ -1,11 +1,11 @@
 title: Junyu Zhang # name of the site
 author: Junyu Zhang # name of site's author
-email: junyu.zhang@postgrad.otago.ac.nz # email of site's author
+email: junyu.zhang0088@outlook.com # email of site's author
 url: https://junyuzhang567.github.io/ # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  <p> PhD candidate in Finance
-  <p> Approaching graduation, open to work </p>
+  <p> PhD </p>
+  <p> Research fellow, Queen's Univeristy Belfast </p>
   <p> FRM part I exam passed, CFA III exam candidate.</p>
   <p> Email: junyu.zhang0088@outlook.com </p>
 permalink: /:slug.html
