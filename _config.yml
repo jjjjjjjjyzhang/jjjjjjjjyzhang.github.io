@@ -6,7 +6,7 @@ baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're sit
 description: > # description of the site (multiple lines allowed)
   <p> PhD, Biodiversity/Nature Finance, Quqntitative Finance, ESG </p>
   <p> Research fellow, Queen's Univeristy Belfast </p>
-  <p> FRM part I exam passed, CFA III exam candidate.</p>
+  <p> FRM part I exam passed, CFA level 2 exam passed.</p>
   <p> Email: junyu.zhang0088@outlook.com </p>
 permalink: /:slug.html
 
